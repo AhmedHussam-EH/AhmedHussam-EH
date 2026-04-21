@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ahmed Hussam 👋
+###  | Full-Stack Developer 
 
-<!--
-**AhmedHussam-EH/AhmedHussam-EH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated developer focused on building robust and scalable applications using the .NET ecosystem. I enjoy solving problems and continuously expanding my technical stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills & Learning Path
+
+#### **Backend Development**
+- **Languages:** C# (Strong focus on OOP & SOLID Principles).
+- **Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API.
+- **Data:** Entity Framework Core, SQL Server.
+- **Architecture:** Clean Architecture.
+
+#### **Frontend Development**
+- **Core:** HTML5, CSS3, JavaScript.
+- **Frameworks/ Angular (Familiar).
+- **Libraries/ Bootstrap.
+
+#### **Mobile Development**
+- **Cross-Platform:** Flutter.
+
+#### **Other Technologies (Familiar with)**
+- **Java:** Spring Boot (Basic Knowledge).
+
+---
+
+### 🛠️ Current Focus
+I am currently deep-diving into **Clean Architecture** and **Web API** patterns to build professional-grade software.
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [ www.linkedin.com/in/ahmed-elhams-022504298 ]
+- **Email:** [ colex18812@gmail.com ]
